@@ -1,0 +1,19 @@
+# GitHub Pages configuration
+# Docs: https://docs.github.com/en/pages/quickstart
+
+title: Aldo — Engineer & Builder
+description: Software engineer focused on microservices, cloud architecture, and the thoughtful integration of AI.
+
+# Using plain HTML — no Jekyll theme needed
+# If you want Jekyll processing, uncomment a theme below:
+# theme: jekyll-theme-minimal
+
+# Exclude dev files from the build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+# Base URL — leave empty for username.github.io sites
+baseurl: ""
+url: ""
